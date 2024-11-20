@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pacha-tech
-- 👀 I’m interested in deeloppement mobile
+- 👀 I’m interested in deeloppement in generale
 - 🌱 I’m currently learning the kotlin language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 655128415
